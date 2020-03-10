@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               Avery's Blog
-tagline:             'A bunch of random stuff'
+tagline:             'A bunch of random stuff from my brain'
 description:         'This is the place where I write a bunch of stuff about things.'
 url:                 http://blog.averymiller.org
 baseurl:             ''
